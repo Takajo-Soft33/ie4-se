@@ -1,3 +1,3 @@
 # Hello and... Do you goodbye?
-- [x] yes
-- [ ] no
+<label><input type="radio" name="moonside" value="no">yes</label>
+<label><input type="radio" name="moonside" value="yes">no</label>
