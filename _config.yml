@@ -1,1 +1,5 @@
-theme: jekyll-theme-dinky
+theme: jekyll-theme-cayman
+title: GitHub Pages ハイチュードリアン味
+description: 自己紹介　佐東　健司
+github:
+  is_project_page: false
