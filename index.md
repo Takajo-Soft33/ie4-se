@@ -1,3 +1,4 @@
+<!--
 # Hello and... Do you goodbye?
 <form>
 <label><input type="radio" name="moonside" value="no" selected>yes</label>
@@ -5,7 +6,7 @@
 
 <details onclick="event.preventDefault()" id="main">
   <summary><input type="button" value="OK" onclick="if(this.form.moonside.value=="yes") confirm('Goodbye!') && history.go(-1); else document.getElementById('main').open = true"></summary>
-  
+  -->
   # アジャイル開発　演習
   徳山高専　2020.10.16
   
@@ -32,5 +33,5 @@
   
   <font color="Red">赤色</font>　です
   
-</details>
-</form>
+<!--/details>
+</form-->
