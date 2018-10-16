@@ -17,7 +17,7 @@
   |---|---|
   |![](parrot.gif)|[![](https://upload.wikimedia.org/wikipedia/commons/2/20/Cochenille_z02.jpg)](https://ja.wikipedia.org/wiki/ファイル:Cochenille_z02.jpg)|
   
-  <a href="http://www.yunphoto.net"><img src="yun_7765.jpg" alt="すずらん" title="すずらん Photo by (c)Tomo.Yun" width="200" height="200"></a>
+  <a href="http://www.yunphoto.net"><img src="yun_7765.jpg" alt="すずらん" title="すずらん Photo by (c)Tomo.Yun" width="200" height="200" style="object-fit: cover; "></a>
   
   ## 授業
     データ構造とアルゴリズム
