@@ -1,7 +1,7 @@
 # Hello and... Do you goodbye?
 <form>
 <label><input type="radio" name="moonside" value="no" selected>yes</label>
-<label><input type="radio" name="moonside" value="yes">no</label
+  <label><input type="radio" name="moonside" value="yes">no</label>
 
 <details onclick="event.preventDefault()" id="main">
   <summary><input type="button" value="OK" onclick="if(this.form.moonside.value=="yes") confirm('Goodbye!') && history.go(-1); else document.getElementById('main').open = true"></summary>
